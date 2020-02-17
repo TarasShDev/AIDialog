@@ -139,7 +139,7 @@ namespace AIDialog
         private string GenerateQuestion()
         {
             var qColl = questions[random.Next(questions.Count)].Questions;
-            return "Let me ask you something." + qColl[random.Next(qColl.Count)];
+            return qColl[random.Next(qColl.Count)];
         }
 
         private bool ContainsAbusiveWords(List<string> userWords)
