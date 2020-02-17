@@ -1,0 +1,62 @@
+[
+  {
+    "Category": "Personal",
+    "Questions": [
+      "What is your name?",
+      "How old are you?",
+      "Where are you from?",
+      "What is your phone number?",
+      "What is your email adress?",
+      "How tall are you?",
+      "What is your gender?",
+      "What is the colour of your eyes?",
+      "What is the colour of your hair?"
+    ]
+  },
+  {
+    "Category": "Localization",
+    "Questions": [
+      "What is your adress?",
+      "Where do you live?",
+      "What is your native language",
+      "How long do you live in this city"
+    ]
+  },
+  {
+    "Category": "Favourite",
+    "Questions": [
+      "What is your favourite book?",
+      "What is your hobby?",
+      "Do you have a pet?",
+      "Do you like animals?",
+      "Dou you like sport?",
+      "What are your favourite outdoor activities?",
+      "What can you tell about your university?",
+      "Do you have a job?",
+      "What is your favourite film?",
+      "How often do you go to the cinema?",
+      "Do you like listening to music?",
+      "What is the song you like the most?",
+      "What genre of music do you prefer?"
+    ]
+  },
+  {
+    "Category": "Politics",
+    "Questions": [
+      "Who is your president?",
+      "What is your president name?",
+      "Who is the mayor of your city?",
+      "Where is your country located?"
+    ]
+  },
+  {
+    "Category": "Abstract",
+    "Questions": [
+      "Do you know what is love?",
+      "What is the motto of your life?",
+      "What is your slogan?",
+      "What is the sense of your life",
+      "What was first egg or chicken?"
+    ]
+  }
+]

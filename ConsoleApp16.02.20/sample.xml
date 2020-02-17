@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<program> 
+	<phone>
+		<name>Саша</name>
+		<number>890953317</number>
+		<remark>Не бери трубку!</remark>
+	</phone>
+	<phone>
+		<name>Дима</name>
+		<number>890512309</number>
+		<remark>Босс</remark>
+	</phone>
+	<phone group="important">
+		<name>Рита</name>
+		<number>890198735</number>
+		<remark>Невероятная девчонка</remark>
+	</phone>
+</program>
